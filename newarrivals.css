@@ -1,0 +1,209 @@
+body
+{
+	overflow-x: hidden;
+		background-color: pink;
+
+}
+.container1{
+	margin: auto;
+	/*border: 1px solid black;*/
+	align-self: center;
+	width: 1140px;
+	height: 3400px;
+
+}
+
+.box{
+	position: relative;
+	top: -22px;
+	/*border: black;*/
+	width: 1140px;
+	height: 170px;
+	background-color: black;
+}
+.box img
+{
+	position: relative;
+	/*left: -12px;*/
+	top: 40px;
+}
+.box h1{
+	color: white;
+	text-align: center;
+	font-family: cursive;
+	position: relative;
+	top: -90px;
+}
+.navigation
+{
+
+	position: fixed;
+	position: relative;
+	top: -90px;
+	align-items: left;
+}		
+ul { 
+	float: right;
+		padding: 0; 
+		list-style: none;
+		background: black; 
+	}
+ul li {display: inline-block; }
+
+ul li a { 
+			display: block;
+			padding: 10px 25px;
+			color: white;
+			text-decoration: none; 
+		}
+ul li a:hover  { 
+					color: #fff;
+					background: #939393;
+				}
+
+
+#banner1{
+	background:url(g15.png);
+	background-size: cover;
+	background-position: center;
+	width: 1140px;
+	height: 50vh;
+	position: relative;
+	top: -22px;
+
+}
+
+.bannertext
+{
+	text-align: center;
+	color: white;
+	padding-top: 180px;
+}
+.bannertext h1
+{
+	font-family: 'Kaushan Script', cursive;
+
+	font-size: 110px;
+	position: relative;
+	top: -30px;
+
+}
+
+
+.ct{
+	border-collapse: collapse;
+	margin: 25px 0;
+	font-size: 15px;
+	width: 1140px;
+	font-family: cursive;
+}
+
+.ct thead tr
+{
+	background-color: darkcyan;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+td{
+	width: 500px;
+	text-align: center;
+	/*background-color: gray;*/
+}
+.new{
+	position: relative;
+	left: 70px;
+	font-size: 20px;
+		font-family: cursive;
+}
+.new h2{
+	font-size: 30px;
+
+}
+.new p
+{
+	font-size: 20px;
+	width: 1000px;
+	text-align: justify;
+}
+.boxx
+{
+	font-size: 40px;
+	font-family: cursive;
+	margin-left: 500px;
+}
+.image{
+	position: relative;
+	top: 70px;
+	/*padding: 10px;*/
+}
+
+footer{
+	position: relative;
+	top: 60px;
+	left: 0px;
+	/*border: 1px solid pink;*/
+	width: 1140px;
+	height: 360px;
+	background-color: black;
+	color: white;
+
+}
+.title h3
+{
+	position: relative;
+	top: 20px;
+	left: 420px;
+	font-family: comic sans-serif;
+	font-size: 40px;
+
+}
+.title hr 
+{	
+
+	width: 450px;
+	border: 3px solid white;
+}
+.time{
+	position: relative;
+	left: 100px;
+	top: 0px;
+}
+.touch{
+	position: relative;
+	left: 800px;
+	top: -230px;
+}
+.time h2
+{
+	color: #009688;
+}
+
+.touch h2{
+		color: #009688;
+
+}
+.touch h3 
+{
+	border: 1px solid yellow;
+	width: 100px;
+	height: 30px;
+	color: white;
+
+	
+}
+.touch a :hover
+{
+	background-color: pink;
+}
+.time p
+{
+	color: white;
+}
+.touch p{
+		color: white;
+
+}
+
+
+

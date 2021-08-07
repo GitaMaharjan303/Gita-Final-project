@@ -1,0 +1,76 @@
+
+body
+{
+	overflow-x: hidden;
+		background-color: pink;
+
+}
+.container1{
+	margin: auto;
+	/*border: 1px solid hotpink;*/
+	align-self: center;
+	width: 1140px;
+	height: 4720px;
+	position: relative;
+
+
+}
+#dress{
+	position: relative;
+	top: 450px;
+	/*left: 500px*/
+}
+.Summercollection
+{
+	position: relative;
+	top: -450px;
+	/*border: 1px solid black;*/
+	width: 1140px;
+	height: 1550px;
+	font-family: cursive;
+}
+.Summercollection h2
+{
+	position: relative;
+	left: 450px;
+	font-size: 40px;
+
+}
+.s2{
+	position: relative;
+	left: 400px;
+	top: -350px;
+}
+.s3{
+	position: relative;
+	left: 800px;
+	top: -700px;
+}
+
+#secondrow{
+	position: relative;
+	top: -600px;
+}
+#thirdrow{
+	position: relative;
+	top: -600px;
+}
+
+
+.Wintercollection
+{
+	position: relative;
+	top: -1100px;
+	/*border: 2px solid red;*/
+	width: 1140px;
+	height: 1550px;
+	font-family: cursive;
+}
+.Wintercollection h2
+{
+	position: relative;
+	left: 450px;
+	font-size: 40px;
+
+}
+
